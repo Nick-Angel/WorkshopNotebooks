@@ -1,3 +1,15 @@
 # WorkshopNotebooks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/ce130c96b26d1a1a3c2ad7a6d6e2fd7bf198edcc)
+
+## What is this?
+
+This repository serves the purpose of providing instructional material related to various topics in data science to be discussed in Deep Learning @ UGA workshops. The purpose of these workshops is to provide a soft introduction to data science for complete beginners and supply them with the necessary tools to begin projects on their own.
+
+## How do I view these notebooks?
+
+__If jupyter notebook isn't installed__, click the _launch binder_ badge above to be linked to my personal binder that will allow the user to view the jupyter notebook and interact with it.
+
+__If jupyter notebook is installed__, fork this repository to access the notebook.
+
+The notebook is in the __DELUG Workshop__ folder.

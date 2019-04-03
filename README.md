@@ -13,3 +13,5 @@ __If jupyter notebook isn't installed__, click the _launch binder_ badge above t
 __If jupyter notebook is installed__, fork this repository to access the notebook.
 
 The notebook is in the __DELUG Workshop__ folder.
+
+__Note:__ The math in the DELUG Workshop notebook is not properly typeset when viewed through github, so viewing the notebook through jupyter notebook is recommended.

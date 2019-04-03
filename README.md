@@ -1,6 +1,6 @@
 # WorkshopNotebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/28be687025b90dddca1b138e0d937c5fbba74062)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/3f6d472f0a9dbf8531fd6123339305499efa64a6)
 
 ## What is this?
 

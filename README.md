@@ -1,6 +1,6 @@
 # WorkshopNotebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/ce130c96b26d1a1a3c2ad7a6d6e2fd7bf198edcc)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiqAngel/WorkshopNotebooks/28be687025b90dddca1b138e0d937c5fbba74062)
 
 ## What is this?
 
@@ -13,3 +13,5 @@ __If jupyter notebook isn't installed__, click the _launch binder_ badge above t
 __If jupyter notebook is installed__, fork this repository to access the notebook.
 
 The notebook is in the __DELUG Workshop__ folder.
+
+__Note:__ The math in the DELUG Workshop notebook is not properly typeset when viewed through github, so viewing the notebook through jupyter notebook is recommended.

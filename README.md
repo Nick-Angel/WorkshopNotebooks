@@ -10,7 +10,7 @@ This repository serves the purpose of providing instructional material related t
 
 __If jupyter notebook isn't installed__, click the _launch binder_ badge above to be linked to my personal binder that will allow the user to view the jupyter notebook and interact with it.
 
-__If jupyter notebook is installed__, fork this repository to access the notebook.
+__If jupyter notebook is installed__, clone this repository to access the notebook.
 
 The notebook is in the __DELUG Workshop__ folder.
 
